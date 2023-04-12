@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Czyzewski"
+  given-names: "Tomer"
+- family-names: "Daniel"
+  given-names: "Nati"
+  orcid: "https://orcid.org/0000-0002-0939-3379"
+- family-names: "Rochman"
+  given-names: "Mark"
+- family-names: "Caldwell"
+  given-names: "Julie M."
+- family-names: "Osswald"
+  given-names: "Garrett A."
+- family-names: "Collins"
+  given-names: "Margaret H."
+- family-names: "Rothenberg"
+  given-names: "Marc E."
+- family-names: "Savir"
+  given-names: "Yonatan"
+title: "Machine learning approach for biopsy-based identification of eosinophilic esophagitis reveals importance of global features - Supplementary Materials"
+version: 1.0.0
+date-released: 2021-06-16
+url: "https://github.com/natidaniel/Tech.Rep"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Czyzewski"
+  given-names: "Tomer"
+- family-names: "Daniel"
+  given-names: "Nati"
+  orcid: "https://orcid.org/0000-0002-0939-3379"
+- family-names: "Rochman"
+  given-names: "Mark"
+- family-names: "Caldwell"
+  given-names: "Julie M."
+- family-names: "Osswald"
+  given-names: "Garrett A."
+- family-names: "Collins"
+  given-names: "Margaret H."
+- family-names: "Rothenberg"
+  given-names: "Marc E."
+- family-names: "Savir"
+  given-names: "Yonatan"
+  month: 06
+  start: 1 # First page number
+  end: 5 # Last page number
+  title: "Machine learning approach for biopsy-based identification of eosinophilic esophagitis reveals importance of global features - Supplementary Materials"
+  volume: 2
+  year: 2021
